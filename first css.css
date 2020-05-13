@@ -1,0 +1,7 @@
+html, body { height: 100%; font-family: "Open Sans", sans-serif; color: orange; }
+h1 { font-size: 30px; }
+h2 { font-size: 20px; }
+p {
+font-size: 15px; color: wheat; line-height: 2;
+}
+img { max-width: 100%; }
